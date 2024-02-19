@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Trovopdr&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrovoPedro&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trovopdr&layout=compact&theme=radical" />
 </a>
