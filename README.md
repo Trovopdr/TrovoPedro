@@ -8,7 +8,7 @@ TrovoPedro/TrovoPedro is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://github.com/anuraghazra/github-readme-stats%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrovoPedro&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Trovopdr&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat%22%3E">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrovoPedro&layout=compact&theme=radical" />
