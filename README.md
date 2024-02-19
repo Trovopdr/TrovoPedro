@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Pedro Trovo;
 - 👀 I’m interested in learn new things
 - 🌱 I’m currently learning React, React Native, Java, Mysql and JavaScript
-- 📫 How to reach me instagram https://www.instagram.com/pedrotrovoo/?hl=pt-br
-
 <!---
 TrovoPedro/TrovoPedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
